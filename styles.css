@@ -2,3 +2,16 @@
     background-color: purple;
     color: yellowgreen;
 }
+
+.header {
+    color: black;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.one,
+.two,
+.three {
+    font-family: "Courier New", monospace;
+}
